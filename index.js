@@ -1,1 +1,4 @@
-console.log('Hello');
+const sha = {
+  "Ankit":"Dev"
+}
+console.log(sha)
